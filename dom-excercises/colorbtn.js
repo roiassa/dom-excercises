@@ -1,4 +1,3 @@
-const body = document.querySelector(".body");
 const colorBtn = document.querySelectorAll(".colorBtn")
 
 colorBtn.forEach(function (element) {

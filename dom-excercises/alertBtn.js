@@ -3,4 +3,4 @@ const $button = document.querySelector(".submit");
 
 $button.onclick = function() {
     alert($myInput.value); 
-  };
+};
